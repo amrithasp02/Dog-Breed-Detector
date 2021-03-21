@@ -9,7 +9,7 @@ Dataset used: https://www.kaggle.com/c/dog-breed-identification/data
 - The dataset consists of 120 breeds of dogs with more than 10,000 images for training.
 - It also has a test dataset folder with images
 - CSV file with image id and breed name is also provided.
--
+
 Model Architecture:
 - This model was built using the InceptionV3 model from Keras library. 
 - We loaded the pretrained weights of the Inception model by downloading the data to do transfer learning.
